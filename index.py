@@ -1,4 +1,4 @@
-#!c:/Program Files/Python 3.5/python
+#!/usr/bin/env python
 
 print("Content-type: text/html")
 print()
